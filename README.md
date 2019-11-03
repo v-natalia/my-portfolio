@@ -1,4 +1,4 @@
-# new-portfolio
+# My portfolio
 
 New personal Portfolio 🎨 to showcase my work 💼.
 
