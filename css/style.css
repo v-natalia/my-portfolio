@@ -19,8 +19,8 @@
 6. Landing Page Sections
 - 6.1 Features
 - 6.2 projects
-- 6.3 Gallery
-- 6.4 Video
+  top: 0;
+}- 6.4 Video
 - 6.5 Clients
 - 6.6 Pricing Table
 7. Footer
@@ -364,10 +364,12 @@ section {
 
 .nav-solid #logo #banner-logo {
     display: none;
+    top: 0;
 }
 
 .nav-solid #logo #navigation-logo {
     display: inline-block;
+    top: 0;
 }
 
 /* --------- 2.3 Buttons ---------- */
