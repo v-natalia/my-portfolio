@@ -320,13 +320,12 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-weight:normal;
     color:#999;
-
-    .small {
-    font-size: 10px;
-    }
 }
 
 
+.small {
+font-size: 10px;
+}
 /* Footer Icon Color */
 
 #landing-footer i {
